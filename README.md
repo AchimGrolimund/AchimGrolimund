@@ -9,7 +9,7 @@
   <code><a href="https://www.linkedin.com/in/achim-grolimund/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 
-<img src="images/illustration.png" width="439" height="326" alt="" style="margin-left: auto; margin-right: auto; display: block;"> 
+<img src="images/illustration.png" width="439" height="326" alt="" style="margin-left: auto; margin-right: auto; display: block;width: 70%;"> 
 
 <!-- Profile views counter -->
 <p align="left"> 
