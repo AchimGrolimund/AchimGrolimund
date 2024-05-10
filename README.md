@@ -1,4 +1,3 @@
-## Hey 👋, I'm Achim Grolimund!
 <div align="center">
   <h1>Hi there! 👋 I'm Achim Grolimund</h1>
 </div>
