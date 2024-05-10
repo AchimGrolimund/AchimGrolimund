@@ -1,4 +1,13 @@
 ## Hey 👋, I'm Achim Grolimund!
+<div align="center">
+  <h1>Hi there! 👋 I'm Achim Grolimund</h1>
+</div>
+
+<!-- Divider line -->
+<p align="center">
+  <img src="images/hr_animated.gif" alt="Line" />
+</p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Achim+Grolimund....;Nice+to+meet+you!&center=true&size=28">
