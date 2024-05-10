@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Achim Grolimund!
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Achim+Grolimund....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Achim+Grolimund....;Nice+to+meet+you!&center=true&size=28">
   </a>
 </h1>
 
@@ -9,8 +9,12 @@
   <code><a href="https://www.linkedin.com/in/achim-grolimund/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AchimGrolimund.AchimGrolimund&left_color=green&right_color=red)
+<img src="images/illustration.png" width="439" height="326" alt="" style="margin-left: auto; margin-right: auto; display: block;"> 
 
+<!-- Profile views counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=AchimGrolimund&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
 <strong>Holopin badges</strong>
 
 [![@achimgrolimund's Holopin board](https://holopin.me/achimgrolimund)](https://holopin.io/@achimgrolimund)
@@ -32,6 +36,22 @@
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=6aa6f8)
+
+<!-- GitHub Analytics -->
+<summary><b>⚙️ GitHub Analytics</b></summary><br>
+  <div align="center">
+    <!-- Graph of Commits -->
+    <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AchimGrolimund&theme=github_dark" alt="Graph of Commits" />
+    <!-- Repositories per language -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AchimGrolimund&theme=github_dark" alt="Top Languages" />
+    <!-- GitHub stats -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AchimGrolimund&theme=github_dark" alt="GitHub Stats" />
+      <!-- Repositories per language -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AchimGrolimund&theme=github_dark" alt="Most Commit Languages" />
+    <!-- Histogram of Commits -->
+    <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AchimGrolimund&theme=github_dark" alt="Histogram of Commits" /></br>
+  </div>
+
 
 
 <!---
