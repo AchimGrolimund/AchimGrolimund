@@ -17,7 +17,8 @@
   <code><a href="https://www.linkedin.com/in/achim-grolimund/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <div align="center">
-<img src="images/illustration.png" width="439" height="326" alt=""> 
+<img src="images/illustration.png" width="310" alt=""> 
+<img src="images/my_octocat-1716399668386.png" width="310" alt="my octocat">
 </div>
 
 <!-- Profile views counter -->
